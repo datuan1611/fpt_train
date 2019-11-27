@@ -1,11 +1,11 @@
 # fpt_train
 
-Creator   : Anh Tuan Do
+Creator: Anh Tuan Do
 
-Beginning : 2019-12-01
+Beginning: 2019-12-01
 
 Department: FSOFT
 
-Ebook : A Tour of C++
+Ebook: A Tour of C++
 
 Author: Bjarne Stroustrup
