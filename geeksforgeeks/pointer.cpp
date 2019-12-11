@@ -19,4 +19,14 @@ int main() {
 		//increase ptr by 1
 		ptr++;		
 	}
+
+	cout<<"size of char*: "<<sizeof(char*)<<endl;
+	cout<<"size of int*: "<<sizeof(int*)<<endl;
+	cout<<"size of double*: "<<sizeof(double*)<<endl;
+	cout<<"size of string*: "<<sizeof(string*)<<endl;
+	
+	int value = 5;
+	cout<<"type of int*: "<<typeid(&value).name()<<endl;
+	
+	return 0;
 }
